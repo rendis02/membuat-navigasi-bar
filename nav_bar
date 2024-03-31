@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>NAPIBAR</title>
+  </head>
+  <body>
+    <div class="fcontainer">
+      <nav class="wrapper">
+        <div class="tugas">
+          <div class="firsname">kelompok</div>
+          <div class="lasname">satu</div>
+        </div>
+        <ul class="navigation">
+          <li><a href="/">profil 1</a></li>
+          <li><a href="/" class="active">profil 2</a></li>
+          <li><a href="/">profil 3</a></li>
+          <li><a href="/">materi</a></li>
+          <li><img src="OIP.jpeg" alt="" /></li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>
